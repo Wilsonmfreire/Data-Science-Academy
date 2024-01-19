@@ -34,7 +34,7 @@ Resumo, uma pipeline de dados pode ser considerado uma grande avenida por onde o
 
 ## Processo de Engenharia de dados -  Data Science Framework.
 
-![Untitled](Fundamentos%20de%20Engenharia%20de%20Dados%2052e1689acf954953aa738008eb67a98e/Untitled.png)
+![Untitled](https://github.com/Wilsonmfreire/Data-Science-Academy/blob/main/Fundamentos%20de%20Engenharia%20de%20Dados/Arquivos/Processo%20de%20Engenharia%20de%20dados%20-%20%20Data%20Science%20Framework..png?raw=true)
 
 Engenharia de Dados fornece o suporte necessário para que o processo de Ciência de dados posso ser executado. Observe que a Engenharia de Dados não participa de todo o processo de Ciência de Dados, mas sim das atividades onde deve haver gestão de dados. 
 
@@ -48,7 +48,7 @@ E então outro processo será iniciado para outro produto de dados da empresa. U
 
 ### Diagrama:
 
-![Untitled](Fundamentos%20de%20Engenharia%20de%20Dados%2052e1689acf954953aa738008eb67a98e/Untitled%201.png)
+![Untitled](https://github.com/Wilsonmfreire/Data-Science-Academy/blob/main/Fundamentos%20de%20Engenharia%20de%20Dados/Arquivos/Ciclo%20de%20Vida%20da%20Engenharia%20de%20Dados.png?raw=true)
 
 Fontes de Dados:
 
